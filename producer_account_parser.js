@@ -48,4 +48,3 @@ eos.getProducers({json: true, lower_bound: '', limit: 500}).then(function (bpRes
         console.log(results)
     });
 });
-
